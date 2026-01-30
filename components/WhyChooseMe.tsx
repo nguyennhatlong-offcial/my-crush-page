@@ -1,8 +1,8 @@
 import { CheckCircle } from 'lucide-react';
 
 const reasons = [
-  "Giỏi Lý: giải bài vật lý miễn phí trọn đời.",
-  "Chung thủy: Chỉ biết lý và cậu.",
+  "Giỏi ( môn học ): giải bài (môn học) miễn phí trọn đời.",
+  "Chung thủy: Chỉ biết ( môn học hoặc ko cần, và ) cậu.",
   "Lắng nghe: Luôn sẵn sàng nghe cậu than vãn 24/7.",
   "Hài hước: Tuy đôi lúc hơi nhạt nhưng sẽ cố gắng làm cậu cười."
 ];
