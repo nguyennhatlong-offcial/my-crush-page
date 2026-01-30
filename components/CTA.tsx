@@ -17,7 +17,7 @@ const CTA = () => {
   const handleAgree = () => {
     // Kiểm tra xem đã nhập email chưa
     if (!emailInput) {
-      alert("Cậu ơi, điền email để tớ liên lạc nhé! 🥺");
+      alert("Cậu ơi, điền email người đưa web cho bạn để bạn ấy biết nhé! 🥺");
       return;
     }
 
