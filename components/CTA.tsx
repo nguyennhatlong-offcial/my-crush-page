@@ -5,9 +5,8 @@ import confetti from 'canvas-confetti';
 import emailjs from '@emailjs/browser';
 
 const CTA = () => {
-  const [accepted, setAccepted] = useState(false);
-  const [loading, setLoading] = useState(false);
-  const [emailInput, setEmailInput] = useState(''); // Lưu email crush nhập
+  const EMAIL_CUA_LUONG = "phamducluong15122011@gmail.com"; 
+ 
 
   // 🔴 DÁN LẠI 3 MÃ CỦA EM VÀO ĐÂY (Lấy từ bước trước)
   const SERVICE_ID = "service_fezndmq"; 
