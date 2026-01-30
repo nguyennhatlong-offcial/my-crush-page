@@ -14,7 +14,7 @@ const CTA = () => {
 
   // 2. Cấu hình EmailJS (Điền mã của em vào)
   const SERVICE_ID = "service_fezndmq"; 
-  const TEMPLATE_ID = "template_00uu5xv"; 
+  const TEMPLATE_ID = "template_tguy3tk"; 
   const PUBLIC_KEY = "OMgJvS5umcTFQOroG";  
 
   const handleAgree = () => {
