@@ -4,7 +4,7 @@ const features = [
   {
     icon: <Smile className="w-8 h-8 text-pink-500" />,
     title: "Nụ cười tỏa nắng",
-    desc: "Mỗi lần cậu cười, bug trong code của tớ tự nhiên biến mất."
+    desc: "Mỗi lần cậu cười, tớ tự cảm thấy hạnh phúc."
   },
   {
     icon: <Star className="w-8 h-8 text-yellow-500" />,
